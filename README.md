@@ -36,7 +36,7 @@ what changes we'd like to make!
 For example, let's say we have a component with a button, and a bit of text to
 indicate whether that button has been pressed yet:
 
-```js
+<!-- ```js
 // src/components/ClickityClick.js
 import React from 'react';
 
@@ -449,4 +449,4 @@ ability to update and add to!
 [so]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 [React's official documentation]: https://reactjs.org/docs/state-and-lifecycle.html#state-updates-may-be-asynchronous
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/react-updating-state'>Updating State</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/react-updating-state'>Updating State</a> on Learn.co and start learning to code for free.</p> -->
